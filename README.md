@@ -49,13 +49,13 @@ Built with a **modular architecture**, the system is designed for future enhance
 ---
 
 ## 📁 Project Structure
-
-## sustainable_shopping_assistant/
+```
+sustainable_shopping_assistant/
 ├── main.py # GUI application entry point
 ├── chatbot.py # Core chatbot logic
 ├── nlu.py # Natural Language Understanding module
 └── knowledge_base.py # Predefined knowledge database
-
+```
 
 ---
 
